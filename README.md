@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Rolis, and I'm a student from Karawang.😊</h2>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Rolis+Liu!;" />
+</h1>
 
 ###
 
@@ -51,7 +53,13 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rolis1/rolis1/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 ###
 
