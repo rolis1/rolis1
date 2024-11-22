@@ -52,7 +52,7 @@
 ###
 
 <br clear="both">
-![Snake animation](https://github.com/rolis1/rolis1/raw/output/snake.svg?palette=github-dark)
+
 <img src="https://raw.githubusercontent.com/rolis1/rolis1/output/snake.svg" alt="Snake animation" />
 
 ###
