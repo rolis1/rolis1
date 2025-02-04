@@ -33,22 +33,16 @@
 ###
 
 <div align="left">
-  <a href="https://youtube.com/yourchannel" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="Youtube" />
-  </a>
   <a href="https://instagram.com/yourprofile" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
   </a>
-  <a href="https://twitch.tv/yourprofile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&color=9146FF&logoColor=white&style=for-the-badge" height="35" alt="Twitch" />
-  </a>
-  <a href="https://discord.gg/yourserver" target="_blank">
+  <a href="https://discord.gg/RVqdqHSqp5" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
   </a>
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:rolisliu0@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/rolis-liu" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </div>
